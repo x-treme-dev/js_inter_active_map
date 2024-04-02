@@ -1,0 +1,5 @@
+Интерактивная карта:
+event_click_on_map.html связан с event_click_on_map.js по точке на карте определяем координаты точки и адрес, данные
+выводим в текстовое поле.
+
+event_reverse_qeocode.html связан c event_reverse_geocode.js
